@@ -1,0 +1,36 @@
+div {
+	font: italic;
+	text-align: center
+}
+
+#slogan {
+	font-style: italic;
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: lowercase;
+}
+
+.textcolor {
+	color: 100,100,100;
+}
+
+body{
+	background-color: 240,240,240;
+	text-align: center;
+}
+
+h1{
+	font-weight: bold;
+	font-family: helvetica, sans-serif;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: Helvetica, sans-serif;
+	color: black;
+}
+
+ul{
+	font-family: helvetica, sans-serif;
+}
