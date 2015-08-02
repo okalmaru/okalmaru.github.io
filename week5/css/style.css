@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here);
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+div {
+	font: italic;
+	text-align: center
+}
+
+#slogan {
+	font-style: italic;
+	font-family: helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+	text-transform: lowercase;
+}
+
+.textcolor {
+	color: 100,100,100;
+}
+
+body{
+	background-color: 240,240,240;
+	text-align: center;
+	font-family: 'Cutive Mono', monospace;
+}
+
+h1{
+	font-weight: bold;
+	font-family: 'Just Me Again Down Here', cursive;
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: 'Cutive Mono', monospace;
+	color: black;
+}
+
+ul{
+	font-family: helvetica, sans-serif;
+}
